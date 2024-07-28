@@ -13,7 +13,7 @@ The Task Manager Application is a Java-based project that helps users manage the
 
 ## .vscode/: This folder contains VS Code-specific configuration files.
 launch.json: Contains launch configurations for debugging your application in VS Code.
-settings.json: Contains project-specific settings for VS Code.
+tasks.json: Contains project-specific settings for VS Code.
 
 ## Setup Instructions
 ### Prerequisites
