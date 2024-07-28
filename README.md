@@ -10,6 +10,10 @@ The Task Manager Application is a Java-based project that helps users manage the
 - **Java**: The core programming language used.
 - **JavaFX**: Used for building the graphical user interface.
 - **SQLite**: Used for database management.
+- ##.vscode/: This folder contains VS Code-specific configuration files.
+
+launch.json: Contains launch configurations for debugging your application in VS Code.
+settings.json: Contains project-specific settings for VS Code.
 
 ## Setup Instructions
 ### Prerequisites
