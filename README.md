@@ -12,7 +12,7 @@ The Task Manager Application is a Java-based project that helps users manage the
 - **SQLite**: Used for database management.
 
 ## .vscode/: This folder contains VS Code-specific configuration files.
-launch.json: Contains launch configurations for debugging your application in VS Code.
+launch.json: Contains launch configurations for debugging your application in VS Code.                                                                                                                    
 tasks.json: Contains project-specific settings for VS Code.
 
 ## Setup Instructions
