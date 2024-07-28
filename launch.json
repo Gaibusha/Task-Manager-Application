@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TaskManagerApp",
+            "request": "launch",
+            "mainClass": "TaskManagerApp",
+            "vmArgs": "--module-path lib/javafx-sdk-22.0.2/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
+
+
